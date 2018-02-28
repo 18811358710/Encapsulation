@@ -1,0 +1,24 @@
+[
+    {
+        "logintabClass":"login-tab-r",
+        "loginnameID":"loginname",
+        "nloginpwdID":"nloginpwd",
+        "loginsubmitID":"loginsubmit",
+        "username":" ",
+        "password":" ",
+        "msg":"msg-error",
+        "expects":"请输入账户名和密码"
+
+    },
+       {
+        "logintabClass":"login-tab-r",
+        "loginnameID":"loginname",
+        "nloginpwdID":"nloginpwd",
+        "loginsubmitID":"loginsubmit",
+        "username":"zhangsan",
+        "password":"fu910124",
+        "msg":"msg-error",
+        "expects":"账户名与密码不匹配，请重新输入"
+    }
+
+]
